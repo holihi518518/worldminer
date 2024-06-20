@@ -1,6 +1,6 @@
-COINSTR      = 'XMR'
-ALGO         = 'CryptoNight'
-POOLURL      = 'pool.hashvault.pro'
-PORT         = 80
-WALLETADRSS  = 8415uxr7cgcdrvBscNtnB8cxuanSCgdyj1i19eduMz3jcVMrAyH8GjmFPRB8JvZTJeSKhSAkvnfMVCUqWTLmLKHA8YLt1EL
-PASSWORD     = 'LeonPC—Python'
+COINSTR      = 'BTC'
+ALGO         = 'SHA256D'
+POOLURL      = 'solo.ckpool.org'
+PORT         = 3333
+WALLETADRSS  = '38SAU3qvAZnyrbLxnqHXsV2EjxKT9gktzX'
+PASSWORD     = 'x'
