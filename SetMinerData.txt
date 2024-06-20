@@ -1,0 +1,6 @@
+COINSTR      = 'BTC'
+ALGO         = 'SHA256D'
+POOLURL      = 'solo.ckpool.org'
+PORT         = 3333
+WALLETADRSS  = '38SAU3qvAZnyrbLxnqHXsV2EjxKT9gktzX'
+PASSWORD     = 'x'
