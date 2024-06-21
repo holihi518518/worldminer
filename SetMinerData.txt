@@ -3,4 +3,4 @@ ALGO         = 'CryptoNight'
 POOLURL      = 'pool.hashvault.pro'
 PORT         = 80
 WALLETADRSS  = 8415uxr7cgcdrvBscNtnB8cxuanSCgdyj1i19eduMz3jcVMrAyH8GjmFPRB8JvZTJeSKhSAkvnfMVCUqWTLmLKHA8YLt1EL
-PASSWORD     = 'LeonPC—Python'
+PASSWORD     = 'LeonPC_Python'
